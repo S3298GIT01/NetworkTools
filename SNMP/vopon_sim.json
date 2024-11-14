@@ -1,0 +1,7 @@
+{
+    "ipv4Src": "182.177.29.242",
+    "ipv4Dst": "172.20.21.11",
+    "upsMac": "00:09:f5:29:8e:29",
+    "adtranCommunity": "adtran-test",
+    "upsCommunity": "vertiv-test"
+}
