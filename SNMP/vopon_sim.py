@@ -941,7 +941,8 @@ def mainMenu(active_config):
 def main():
 
     #config_file = os.getcwd()+"\\VoPON\\vopon_sim\\vopon_sim.json"
-    config_file = os.getcwd()+"\\vopon_sim.json"
+    #config_file = os.getcwd()+"\\vopon_sim.json"
+    config_file = "//home/shrey//Downloads//SNMP//vopon_sim.json"
     active_config = {}
 
     active_config = loadConfig(config_file)
