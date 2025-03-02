@@ -1,3 +1,3 @@
 #!/bin/bash
 
-timeout 120 while true; do curl localhost; sleep $((RANDOM % 4)); done
+timeout 120 bash -c 'while true; do curl -k https://google.com; sleep $((RANDOM % 4)); done'
