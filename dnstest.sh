@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL to test
-url="www.google.com" # Replace with your desired URL
+url="www.dnstest.4pfsolutions.com" # Replace with your desired URL
 
 while true; do
   # Print the date and time
