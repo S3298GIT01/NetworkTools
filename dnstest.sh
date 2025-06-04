@@ -16,7 +16,8 @@ while true; do
 
 
   # Clear the DNS cache (systemd-resolved)
-  resolvectl flush-caches
+  #Does not work in pods
+  # resolvectl flush-caches
 
   # Alternative for older systems or different resolvers:
   # /etc/init.d/dns-clean restart (or the appropriate command for your system)
