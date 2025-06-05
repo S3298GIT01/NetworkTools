@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL to test
-url="dnstest.4pfsolutions.com" # Replace with your desired URL
+url="2a-dual-wired-internet-no-load-b-wqhwvgpnrv.dynamic-m.com" # Replace with your desired URL
 
 while true; do
   # Print the date and time
